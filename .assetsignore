@@ -1,6 +1,8 @@
 .git/
 .wrangler/
 node_modules/
-Capturas/
+docs/
 wrangler.toml
 .assetsignore
+assets/capturas/README-CAPTURAS.md
+assets/capturas/_revision-capturas.html
